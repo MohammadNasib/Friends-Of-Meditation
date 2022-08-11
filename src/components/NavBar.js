@@ -36,9 +36,9 @@ export default function NavBar() {
                     </li>
 
                     <li>
-                        <a href='#' className='pointer' onClick={showHideDropdown}>
+                        <NavLink to='/' className='pointer' onClick={showHideDropdown}>
                             Products <FaChevronDown className='dropdownIcon' />
-                        </a>
+                        </NavLink>
 
                         <div className='dropdown' ref={dropdownRef}>
                             <li>
