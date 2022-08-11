@@ -1,0 +1,199 @@
+{
+    "chairs": [
+        {
+            "productImg": "medi-chairs/image1",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-chairs/image2",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-chairs/image3",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-chairs/image4",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-chairs/image5",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-chairs/image6",
+            "productTitle": "Meditation and Yoga Chair with backsupport and meditation block ",
+            "productPrice": "1020"
+        }
+    ],
+
+    "cushions": [
+        {
+            "productImg": "medi-cushions/image1",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-cushions/image2",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-cushions/image3",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-cushions/image4",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-cushions/image5",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "medi-cushions/image6",
+            "productTitle": "Floor Cushion for Yoga and Meditation",
+            "productPrice": "1020"
+        }
+    ],
+
+    "sleepMasks": [
+        {
+            "productImg": "sleep-masks/image1",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "sleep-masks/image2",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "sleep-masks/image3",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "sleep-masks/image4",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "sleep-masks/image5",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "sleep-masks/image6",
+            "productTitle": "Mulberry Silk Eye Mask, Super Smooth Sleep Mask and Blind Fold",
+            "productPrice": "1020"
+        }
+    ],
+
+    "yogaChairs": [
+        {
+            "productImg": "yoga-chairs/image1",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-chairs/image2",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-chairs/image3",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-chairs/image4",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-chairs/image5",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-chairs/image6",
+            "productTitle": "Backless Yoga Chair for Holding, Alignment, Flexibility ",
+            "productPrice": "1020"
+        }
+    ],
+
+    "yogaMats": [
+        {
+            "productImg": "yoga-mats/image1",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-mats/image2",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-mats/image3",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-mats/image4",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-mats/image5",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-mats/image6",
+            "productTitle": "TPE Yoga Mat with Body Alignment Lines | Non-Slip and Tear Resistant",
+            "productPrice": "1020"
+        }
+    ],
+
+    "yogaBricks": [
+        {
+            "productImg": "yoga-bricks/image1",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-bricks/image2",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-bricks/image3",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-bricks/image4",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-bricks/image5",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        },
+        {
+            "productImg": "yoga-bricks/image6",
+            "productTitle": "Yoga Belt- Best for Daily Stretching, Yoga, Pilates, Physical Therapy, Fitness ",
+            "productPrice": "1020"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+:root {
+    --color1: white;
+    --color2: hsl(211.6, 57.6%, 6.5%);
+    --maxWidth: 120em;
+    --font1: clamp(2.75em, 4vw + 1em, 4rem);
+    --font2: clamp(2em, 2.2vw + 1em, 3rem);
+    --font3: clamp(1.57em, 1.7vw + 1em, 2.2rem);
+    --gradient: linear-gradient(
+        180deg,
+        hsla(0, 33%, 96%, 0.024) 47%,
+        hsla(211.6, 57.6%, 6.5%, 0.65)
+    );
+}
+
+*,
+*::before,
+*::before {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    background-color: var(--color1);
+    scroll-padding-top: var(--scrollPadding, 100px);
+    font-family: 'Poppins', sans-serif;
+}
+
+@media (min-width: 662px) {
+    :root {
+        --font1: 3em;
+        --font2: 2em;
+        --font3: 1.7em;
+        --font4: 1.58em;
+    }
+
+    html {
+        font-size: 60%;
+    }
+}
+@media (min-width: 950px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+// global
+.pointer {
+    cursor: pointer;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+.fw-400 {
+    font-weight: 400;
+}
+.fw-500 {
+    font-weight: 500;
+}
+
+.show {
+    display: flex !important;
+}
+
+.sectionTitle {
+    font-size: var(--font1);
+    margin-bottom: 2em;
+}
+
+.main {
+    padding: 1em 2em;
+}
+
+@media (min-width: 662px) {
+    .main {
+        padding: 2em 3em;
+    }
+}
+
+@media (min-width: 950px) {
+    .main {
+        max-width: var(--maxWidth);
+        margin: auto;
+    }
+}

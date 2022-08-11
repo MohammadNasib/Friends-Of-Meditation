@@ -1,0 +1,90 @@
+.productContainer {
+    margin-top: 5em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
+    justify-items: center;
+    gap: 3em;
+
+    .productBox {
+        display: grid;
+        gap: 2em;
+        max-width: 41em;
+        padding: 3em 2em;
+        border-radius: 0.7em;
+
+        &:hover {
+            box-shadow: 2px 2px 7px #555252;
+        }
+
+        .img {
+            background-image: url(../assets/medi-cushions/image1.jpg);
+            background-position: center center;
+            background-size: contain;
+            background-repeat: no-repeat;
+            border-radius: 0.7em;
+            padding: 7em;
+        }
+
+        .description {
+            .companyName {
+                color: rgb(95, 92, 92);
+            }
+
+            .productTitle {
+                font-size: calc(var(--font2) - 0.3em);
+                margin-bottom: 1em;
+            }
+
+            .productColor {
+                font-size: calc(var(--font3) - 0.6em);
+                margin-bottom: 1em;
+                padding: 0.5em;
+                background-color: var(--color2);
+                color: var(--color1);
+                border-radius: 0.3em;
+                border: none;
+            }
+        }
+
+        .currencySign {
+            font-size: var(--font3);
+        }
+
+        .price {
+            font-size: calc(var(--font1) - 0.3em);
+            margin-left: 0.2em;
+        }
+
+        .btn {
+            font-size: calc(var(--font2) - 0.3em);
+            padding: 0.7em 1em;
+            background-color: var(--color2);
+            color: var(--color1);
+            border: none;
+            border-radius: 0.3em;
+
+            &:hover {
+                background-color: var(--color1);
+                color: var(--color2);
+                border: 1px solid;
+            }
+        }
+    }
+}
+
+@media (min-width: 662px) {
+    .container {
+        .productContainer {
+            gap: 5em 3em;
+        }
+    }
+}
+
+@media (min-width: 950px) {
+    .container {
+        .productContainer {
+            grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));
+            gap: 3em 1.5em;
+        }
+    }
+}
